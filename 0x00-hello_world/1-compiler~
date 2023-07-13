@@ -1,4 +1,0 @@
-#!/bin/bash
-CFILE="your_c_file.c"
-BASENAME=$(basename "$CFILE" .c)
-gcc -c "$CFILE" -o "$BASENAME.o"
