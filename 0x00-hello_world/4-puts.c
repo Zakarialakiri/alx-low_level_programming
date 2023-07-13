@@ -1,8 +1,6 @@
 #include <stdio.h>
 /*
-usfslifsifs 
-*hdcgjqhccskc
-*jhcdjshcscsdc
+usfslifsifs dzdzdzdzdzdz
 */
 int main(void)
 {
