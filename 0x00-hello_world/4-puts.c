@@ -1,10 +1,9 @@
 #include <stdio.h>
-/*usfslifsifs 
- *hdcgjqhccskc
- *jhcdjshcscsdc
- */
-
-
+/*
+usfslifsifs 
+*hdcgjqhccskc
+*jhcdjshcscsdc
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
