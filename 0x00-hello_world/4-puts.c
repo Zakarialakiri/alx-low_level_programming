@@ -1,7 +1,5 @@
 #include <stdio.h>
-/*
-usfslifsifs dzdzdzdzdzdz
-*/
+/*usfslifsifs dzdzdzdzdzdz */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
