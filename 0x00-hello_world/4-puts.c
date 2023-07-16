@@ -1,8 +1,9 @@
 #include <stdio.h>
+/*** main - prints "Programming is like building a multilingual
+* puzzlz, followed a new line 
+* Return : Always 0."*/
 int main(void)
-/*Print the string "Programming is like building a multilingual puzzle*/
 {
-puts("\"Programming is like building a multilingual puzzle");
- /*Return variable*/
+puts("\"Programming is like building a multilingual puzzle")
 return (0);
 }
